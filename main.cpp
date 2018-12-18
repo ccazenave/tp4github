@@ -21,6 +21,7 @@ using namespace std;
 int main(int argc, char** argv) {
     cout<<"test git sous netbean"<<endl;
     cout<<"test cout deux git sous netbean"<<endl;
+    cout<<"testn99";
     return 0;
 }
 
